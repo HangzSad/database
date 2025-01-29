@@ -12,7 +12,7 @@
       "nick": "Y",
       "premium": false,
       "totalLimit": 0,
-      "limit": 95,
+      "limit": 92,
       "uang": 10000,
       "lastclaim": 1738113678121,
       "lastrampok": 1738113678121
@@ -105,6 +105,32 @@
       "uang": 10000,
       "lastclaim": 1738116200936,
       "lastrampok": 1738116200936
+    },
+    "6287705905203@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "e2c5e938f8adfc71928836a282b1879c",
+      "nick": "Ofuu",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 93,
+      "uang": 10000,
+      "lastclaim": 1738123354219,
+      "lastrampok": 1738123354219
+    },
+    "6282138933073@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "df26f397c915ac7e61ab172330ab23bc",
+      "nick": "Lutpiii",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738123638375,
+      "lastrampok": 1738123638375
     }
   },
   "chats": {
@@ -217,6 +243,24 @@
       "mute": false
     },
     "120363306209734832@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363385982147993@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
