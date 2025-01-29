@@ -144,6 +144,18 @@
       "uang": 10000,
       "lastclaim": 1738134399321,
       "lastrampok": 1738134399321
+    },
+    "120363364330631981@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "b977a01d41f8ca2b56c176c73d950183",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738151755674,
+      "lastrampok": 1738151755674
     }
   },
   "chats": {
@@ -274,6 +286,24 @@
       "mute": false
     },
     "120363385982147993@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    },
+    "120363364330631981@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
