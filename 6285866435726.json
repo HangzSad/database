@@ -156,6 +156,19 @@
       "uang": 10000,
       "lastclaim": 1738151755674,
       "lastrampok": 1738151755674
+    },
+    "6282126385621@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c0fa3fefe1812d5c041b2b62c877ee0a",
+      "nick": "bimoli",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738302034391,
+      "lastrampok": 1738302034391
     }
   },
   "chats": {
