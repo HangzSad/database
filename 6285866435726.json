@@ -51,7 +51,7 @@
       "nick": "ㅤHanggaㅤ",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738382886511,
       "lastrampok": 1738382886511
@@ -129,6 +129,19 @@
       "uang": 10000,
       "lastclaim": 1738488933798,
       "lastrampok": 1738488933798
+    },
+    "6281928079404@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "67740c96895407acdecccc0c31a30005",
+      "nick": "𝚀𝚄𝙸𝙽𝙲𝚈•ʟᴜxᴀʀᴋ",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738498384381,
+      "lastrampok": 1738498384381
     }
   },
   "chats": {
