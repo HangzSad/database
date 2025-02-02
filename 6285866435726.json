@@ -25,7 +25,7 @@
       "nick": "HangzStore",
       "premium": false,
       "totalLimit": 0,
-      "limit": 21,
+      "limit": 20,
       "uang": 10000,
       "lastclaim": 1738382419084,
       "lastrampok": 1738382419084
@@ -142,6 +142,19 @@
       "uang": 10000,
       "lastclaim": 1738498384381,
       "lastrampok": 1738498384381
+    },
+    "6283843074526@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "c00211a1382c3057c8708fbf76a6a98b",
+      "nick": "RK108",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 99,
+      "uang": 10000,
+      "lastclaim": 1738505803886,
+      "lastrampok": 1738505803886
     }
   },
   "chats": {
@@ -290,6 +303,24 @@
       "mute": false
     },
     "120363383395435351@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": true,
+      "mute": false
+    },
+    "6283843074526@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
