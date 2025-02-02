@@ -38,7 +38,7 @@
       "nick": "Lutpii",
       "premium": false,
       "totalLimit": 0,
-      "limit": 30,
+      "limit": 29,
       "uang": 10000,
       "lastclaim": 1738382431598,
       "lastrampok": 1738382431598
@@ -105,6 +105,18 @@
       "uang": 10000,
       "lastclaim": 1738407841136,
       "lastrampok": 1738407841136
+    },
+    "120363306209734832@newsletter": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "0dd0d1e5efc4a1dcd2c2fec0af614d4b",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738473034524,
+      "lastrampok": 1738473034524
     }
   },
   "chats": {
@@ -217,6 +229,24 @@
       "mute": false
     },
     "120363364330631981@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": true,
+      "mute": false
+    },
+    "120363306209734832@newsletter": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
