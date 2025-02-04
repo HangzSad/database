@@ -12,7 +12,7 @@
       "nick": "HangzStore",
       "premium": false,
       "totalLimit": 0,
-      "limit": 100,
+      "limit": 99,
       "uang": 10000,
       "lastclaim": 1738673820391,
       "lastrampok": 1738673820391
@@ -55,6 +55,19 @@
       "uang": 10000,
       "lastclaim": 1738674304223,
       "lastrampok": 1738674304223
+    },
+    "6281329451402@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "db8a09d34f881708da8e9dbfcb5f649b",
+      "nick": "ㅤHanggaㅤ",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738679261788,
+      "lastrampok": 1738679261788
     }
   },
   "chats": {
