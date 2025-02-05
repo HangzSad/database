@@ -92,6 +92,32 @@
       "uang": 10000,
       "lastclaim": 1738696652344,
       "lastrampok": 1738696652344
+    },
+    "62895619830220@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "abc468ed16e64066276eff691bb925d8",
+      "nick": "—Shiel",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738711700991,
+      "lastrampok": 1738711700991
+    },
+    "6281928079404@s.whatsapp.net": {
+      "vip": false,
+      "badword": 0,
+      "title": "",
+      "serialNumber": "002b7b5930afd4c1c85ae646fb2ece1c",
+      "nick": "𝚀𝚄𝙸𝙽𝙲𝚈•ʟᴜxᴀʀᴋ",
+      "premium": false,
+      "totalLimit": 0,
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1738713150511,
+      "lastrampok": 1738713150511
     }
   },
   "chats": {
@@ -150,6 +176,24 @@
       "mute": false
     },
     "120363364330631981@newsletter": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antiviewonce": false,
+      "antibot": false,
+      "antispam": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilink": false,
+      "antilinkgc": true,
+      "mute": false
+    },
+    "120363164032413474@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antiviewonce": false,
